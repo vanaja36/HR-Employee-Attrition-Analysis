@@ -80,15 +80,15 @@ The dataset contains **500 employee records** with the following fields:
 
 
 ## 9. Key Visualizations
-![Attrition by Department](images/attrition_by_department.png)  
-![Monthly Income vs Attrition](images/attrition_by_salary.png)  
-![Correlation Heatmap](images/correlation_heatmap.png)  
+![Attrition by Department] 
+![Monthly Income vs Attrition]
+![Correlation Heatmap] 
 
 ## 10. Project Deliverables
-- **Dataset** → [`data/HR_Employee_Attrition.csv`](data/HR_Employee_Attrition.csv)  
-- **Notebook** → [`notebooks/HR_Attrition_Analysis.ipynb`](notebooks/HR_Attrition_Analysis.ipynb)  
-- **Visuals** → [`images/`](images/)  
-- **README.md** → Project documentation  
+- **Dataset**
+- **Notebook** 
+- **Visuals**  
+- **README.md**   
 
 ## 11. How to Run
 1. **Clone the repository**  
